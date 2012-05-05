@@ -1,0 +1,6 @@
+[submodule "lib/paraglide"]
+	path = lib/paraglide
+	url = git@github.com:bgoldman/Paraglide.git
+[submodule "lib/classes/paragon"]
+	path = lib/classes/paragon
+	url = git@github.com:bgoldman/Paragon.git
